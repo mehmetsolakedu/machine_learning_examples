@@ -1,4 +1,4 @@
-# https://deeplearningcourses.com/c/data-science-deep-learning-in-theano-tensorflow
+ # https://deeplearningcourses.com/c/data-science-deep-learning-in-theano-tensorflow
 # https://www.udemy.com/data-science-deep-learning-in-theano-tensorflow
 from __future__ import print_function, division
 from builtins import range
